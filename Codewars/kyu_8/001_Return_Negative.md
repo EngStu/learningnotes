@@ -7,3 +7,13 @@ Example:
 makeNegative(1); // return -1
 makeNegative(-5); // return -5
 ```
+
+<details><summary>Sopiler Alert</summary>
+<code><pre>
+makeNegative(1); // return -1
+makeNegative(-5); // return -5
+function(x) {
+  return x;
+}
+</pre></code>
+</details>
