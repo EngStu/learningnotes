@@ -1,4 +1,24 @@
-# Codewars Index
+# Codewars Index 20
 #### [HOME](./../README.md)
-001. [Return_Negative](./kyu_8/20/001_Return_Negative.md)
-002. second
+001. [Return Negative](./kyu_8/20/001_Return_Negative.md)
+002. [String Repeat](./kyu_8/20/002_String_Repeat.md)
+003. [paste](./kyu_8/20/003_.md)
+004. [paste](./kyu_8/20/004_.md)
+005. [paste](./kyu_8/20/005_.md)
+006. [paste](./kyu_8/20/006_.md)
+007. [paste](./kyu_8/20/007.md)
+008. [paste](./kyu_8/20/008_.md)
+009. [paste](./kyu_8/20/009_.md)
+010. [paste](./kyu_8/20/010_.md)
+011. [paste](./kyu_8/20/011_.md)
+012. [paste](./kyu_8/20/012_.md)
+013. [paste](./kyu_8/20/013_.md)
+014. [paste](./kyu_8/20/014_.md)
+015. [paste](./kyu_8/20/015_.md)
+016. [paste](./kyu_8/20/016_.md)
+017. [paste](./kyu_8/20/017_.md)
+018. [paste](./kyu_8/20/018_.md)
+019. [paste](./kyu_8/20/019_.md)
+020. [paste](./kyu_8/20/020_.md)
+
+[Go to Page_2](./index_2.md)
