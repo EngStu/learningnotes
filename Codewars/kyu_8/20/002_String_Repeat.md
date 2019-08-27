@@ -4,7 +4,7 @@ Write a function called repeatString which repeats the given String src exactly 
 repeatStr(6, "I") // "IIIIII"
 repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 ```
-#### learn repeat [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
+## learn repeat [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
 <details><summary>Sopiler Alert</summary>
 <code><pre>
 function repeatStr (n, s) {
@@ -19,7 +19,7 @@ function repeatStr (n, s) {
 }
 </pre></code></details>
 
-#### for / while loop
+## for / while loop
 <details><summary>Sopiler Alert</summary><code><pre>
 function repeatStr (n, s) {
 var str="";
