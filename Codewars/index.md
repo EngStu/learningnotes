@@ -2,7 +2,7 @@
 #### [HOME](./../README.md)
 001. [Return Negative](./kyu_8/20/001_Return_Negative.md)
 002. [String Repeat](./kyu_8/20/002_String_Repeat.md)
-003. [paste](./kyu_8/20/003_.md)
+003. [Is n divisible by x and y](./kyu_8/20/003_Is_n_divisible_by_x_and_y.md)
 004. [paste](./kyu_8/20/004_.md)
 005. [paste](./kyu_8/20/005_.md)
 006. [paste](./kyu_8/20/006_.md)
