@@ -12,19 +12,11 @@ isDivisible(12,7,5)--> false because 12 is neither divisible by 7 nor 5
 
 ##
 <details><summary>Sopiler Alert</summary><code><pre>
-
+function isDivisible(n, x, y) {
+  return n % x === 0 && n % y === 0
+  <!-- return !(n%x||n%y) -->
+}
 </pre></code></details>
-
-##
-<details><summary>Sopiler Alert</summary><code><pre>
-
-</pre></code></details>
-
-##
-<details><summary>Sopiler Alert</summary><code><pre>
-
-</pre></code></details>
-
 
 
 [Go Back](../../index.md)
